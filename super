@@ -7,7 +7,7 @@
 # The next line disables specific ShellCheck codes (https://github.com/koalaman/shellcheck) for the entire script.
 # shellcheck disable=SC2012,SC2024,SC2207
 
-SUPER_VERSION="5.1.0-rc1"
+SUPER_VERSION="5.1.0-rc2"
 readonly SUPER_VERSION
 SUPER_DATE="2025/10/02"
 readonly SUPER_DATE
